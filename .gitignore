@@ -1,0 +1,8 @@
+node_modules/
+.env
+fitmeet.db
+fitmeet.db-shm
+fitmeet.db-wal
+uploads/
+*.log
+.DS_Store
